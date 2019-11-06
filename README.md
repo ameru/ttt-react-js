@@ -1,6 +1,8 @@
 # ttt-react-js
 Interactive TicTacToe on React.js!! My first React project and I don't have the discipline to sift through documentation so here I am just experimenting the true Cal Poly #learnbydoing way! Jeffrey would be so proud T-T
 
+play the game here: https://codepen.io/ameru/pen/JjjKabe
+
 ## Tech Stack
 - HTML
 - CSS

@@ -19,4 +19,3 @@ play the game here: https://codepen.io/ameru/pen/JjjKabe
 - implementing TIME TRAVEL
 - storing and viewing history of moves
 - picking a key
-- hi this is a test
